@@ -16,7 +16,7 @@ python network_scanner.py
 
 ## Example Output
 ```
-[+] Host found: 192.168.1.175
+[+] Host found: xxx.xxx.x.xxx
     Hostname: jellyfin-server.attlocal.net
     Open ports: [80, 443, 8080]
 ```
